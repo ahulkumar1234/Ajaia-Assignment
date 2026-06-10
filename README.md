@@ -67,7 +67,7 @@ Email: [rahul@test.com](mailto:rahul@test.com)
 Password: 123456
 
 User 2:
-Email: [john@test.com](mailto:rahulkumar8340527941@gmail.com)
+Email: [rahulkumar8340527941@gmail.com](mailto:rahulkumar8340527941@gmail.com)
 Password: 123456
 
 ## Implemented Features
