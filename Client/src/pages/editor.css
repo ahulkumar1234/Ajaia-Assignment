@@ -1,0 +1,55 @@
+.editor-container {
+  padding: 20px;
+}
+.editor-container h1 {
+  margin-bottom: 20px;
+}
+.editor-title {
+  width: 100%;
+  padding: 10px;
+  font-size: 24px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.share-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.file-input {
+  margin: 10px;
+}
+.save-button {
+  padding: 10px 20px;
+  background-color: rgb(255, 86, 114);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.save-button:hover {
+  background-color: rgb(255, 66, 94);
+}
+.editor-content {
+  height: 400px;
+}
+.editor-content .ql-toolbar {
+  background-color: rgba(255, 192, 203, 0.2);
+}
+.editor-content .ql-container {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+.editor-content .ql-editor {
+  min-height: 300px;
+}
+.editor-content .ql-editor p {
+  margin: 0;
+}
+.editor-content .ql-editor h1 {
+  margin: 0;
+}
